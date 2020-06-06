@@ -1,0 +1,3 @@
+require "luasql"
+
+testsql()
